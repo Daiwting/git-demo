@@ -1,2 +1,4 @@
 Hello,Git!
 I am Master!
+Hello,Hot-Fox
+I am Hot-Fox!
